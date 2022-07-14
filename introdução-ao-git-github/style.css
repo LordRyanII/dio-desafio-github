@@ -1,0 +1,19 @@
+*{
+    margin-top: 0px;
+}
+header{
+    background-color: aqua;
+    text-align: center;
+
+    width: 100vw;
+    height: 50px;
+}
+
+main{
+    margin: auto 100px;
+}
+
+main > p{
+    text-align: justify;
+    text-indent: 10px;
+}
